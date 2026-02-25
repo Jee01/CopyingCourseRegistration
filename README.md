@@ -13,6 +13,18 @@
 - MySQL 데이터베이스 설계 및 연동
 
 - 회원 정보 관리 로직 구현
+
+## 🧰 사용 기술
+- PHP
+- MySQL
+- Apache (XAMPP)
+- HTML / CSS
+
+## 📂 구조
+
+- 사용자 인증 및 세션 관리
+- 수강 신청 로직 처리
+- DB 연동 및 중복 검사 기능
   
 ## 🛠 기능 구현
 | .php | 역할 | .php | 역할 |
@@ -39,6 +51,8 @@
 |-------|-------|-------|
 |학번|강의번호|강의시간|
 
+※ 학습 목적 프로젝트로 보안 요소는 기본 수준으로 구현
+
 **1. 회원가입**
 <p>
 <img src="https://github.com/user-attachments/assets/52e9d320-101e-4b1d-84ce-fa756f79b386">
@@ -59,3 +73,17 @@
 </p>
 
 수강신청 페이지에서 세션 기반 로그인 구동을 확인
+
+## 🚀 실행 방법
+
+1. XAMPP 설치 후 Apache, MySQL 실행
+2. phpMyAdmin에서 데이터베이스 생성
+3. 프로젝트에 포함된 .sql 파일 실행하여 테이블 생성
+4. connect_db.php에서 DB 정보 수정
+5. http://localhost/CopyingCourseRegistration/main.php 접속
+
+## 🔧 개선하고 싶은 점
+
+- UI/UX 개선
+- 안정성 고려한 구조 설계
+- 재사용성 향상
