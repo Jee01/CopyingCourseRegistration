@@ -45,5 +45,11 @@
 </p>
 
 2. 수강신청
+<p align ="center">
+<img src="https://github.com/user-attachments/assets/e64e329c-004f-4929-80fd-73240b056e39">
+</p>
 
 3. 로그인
+<p align ="center">
+<img src="https://github.com/user-attachments/assets/bad70e63-c352-4faa-8aff-2299cd0edd97">
+</p>
