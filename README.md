@@ -39,17 +39,23 @@
 |-------|-------|-------|
 |학번|강의번호|강의시간|
 
-1. 회원가입
+**1. 회원가입**
 <p align ="center">
 <img src="https://github.com/user-attachments/assets/52e9d320-101e-4b1d-84ce-fa756f79b386">
 </p>
 
-2. 수강신청
+회원 가입 페이지에서 정보 기입 후 student_tbl에 삽입 
+
+**2. 수강신청**
 <p align ="center">
 <img src="https://github.com/user-attachments/assets/e64e329c-004f-4929-80fd-73240b056e39">
 </p>
 
-3. 로그인
+수강 신청 시 time_tbl에 사용자 학번 기반으로 삽입
+
+**3. 로그인**
 <p align ="center">
 <img src="https://github.com/user-attachments/assets/bad70e63-c352-4faa-8aff-2299cd0edd97">
 </p>
+
+수강신청 페이지에서 세션 기반 로그인 구동을 확인
