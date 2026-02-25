@@ -47,9 +47,7 @@
 회원 가입 페이지에서 정보 기입 후 student_tbl에 삽입 
 
 **2. 수강신청**
-<p align ="center">
 <img src="https://github.com/user-attachments/assets/e64e329c-004f-4929-80fd-73240b056e39">
-</p>
 
 수강 신청 시 time_tbl에 사용자 학번 기반으로 삽입
 
