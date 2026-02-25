@@ -40,7 +40,9 @@
 |학번|강의번호|강의시간|
 
 1. 회원가입
-
+<p align ="center">
+<img src="https://github.com/user-attachments/assets/52e9d320-101e-4b1d-84ce-fa756f79b386">
+</p>
 
 2. 수강신청
 
